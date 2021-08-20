@@ -7,7 +7,7 @@ export class userService {
   }
 
   async getUserHello(userId: any) {
-    const result = `Merhabalar Kullanıcımerhabaaaa: ${userId}`;
+    const result = `Merhabalar Kullanıcımerhabaaaalaaar: ${userId}`;
     return result;
   }
 }
